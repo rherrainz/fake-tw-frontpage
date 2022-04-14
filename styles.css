@@ -1,0 +1,48 @@
+.left-col{
+    background-image: url("https://abs.twimg.com/sticky/illustrations/lohp_1302x955.png");
+    font-size: 30vw;
+    text-align: center;
+}
+.text-h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 4vw;
+    font-weight: 700;
+}
+.text-h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2vw;
+    font-weight: 700;
+}
+.button-tw {
+    border-radius: 15px;
+    width: 50%;
+    margin-bottom: 2%;
+
+}
+.or {
+    width: 50%;
+    font-size: 1vw;
+    margin-bottom: 2%;
+    text-align: center;
+}
+.reg-warning{
+    max-width: 50%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: .7vw;
+    font-weight: 200;
+    color: darkgrey;
+}
+.text-h6{
+    max-width: 50%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1vw;
+    font-weight: 500;
+}
+.button-rg {
+    border-radius: 15px;
+    width: 100%;
+    margin-bottom: 2%;
+
+}
